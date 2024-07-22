@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Web Development, ASP.Net Core**
+- 🌱 I’m currently learning **İos Developer Swif , tWeb Development, ASP.Net Core**
 
 - 📫 How to reach me **hasancihanbilgin@gmail.com**
 
